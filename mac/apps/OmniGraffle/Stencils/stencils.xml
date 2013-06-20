@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stencils xmlns:xlink="http://www.w3.org/1999/xlink">
+    <stencil-list type="RECENT">
+        <category-ref path="FAVORITES/Sketch"/>
+        <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/01. Base Wireframe Kit.gstencil" alias="YES"/>
+        <category-ref path="FAVORITES/Web/Konigi web"/>
+        <category-ref path="FAVORITES/Web/Konigi web/1. ui components"/>
+    </stencil-list>
+    <stencil-list type="FAVORITES" default="NO">
+        <category name="Sketch">
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Web Sketch Interface.gstencil"/>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/wireframe sketch.gstencil"/>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Mac/Mac OS X Sketch interface.gstencil"/>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/Software/Interactive Sketch Notation.gstencil"/>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/Software/Napkin UML.gstencil"/>
+        </category>
+        <category name="Mac">
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Mac/Mac OS X Interface.gstencil"/>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Mac/Mac OS X Interface 2.gstencil"/>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Mac/Mac OS X Sketch interface.gstencil"/>
+        </category>
+        <category name="Web">
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Flex3_Stencil.gstencil"/>
+            <category name="Konigi web">
+                <category name="1. ui components">
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/01. Base Wireframe Kit.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/02. Controls.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/03. Forms.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/04. Navigation.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/05. Audio Video.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/06. Text.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/07. Windows, Dialogs, and Layers.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/08. Advertising.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/09. Social Features.gstencil"/>
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/1. ui components/10. Browsers.gstencil"/>
+                </category>
+                <category name="2. style guide">
+                    <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Konigi Wireframe Stencils v3/2. style guide/01. Controls and Forms.gstencil"/>
+                </category>
+            </category>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/SimpleWireFrame.gstencil"/>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/Web Sketch Interface.gstencil"/>
+            <stencil-ref path="~/Library/Application Support/OmniGraffle/Stencils/User Interface/Web/wireframe sketch.gstencil"/>
+        </category>
+    </stencil-list>
+</stencils>

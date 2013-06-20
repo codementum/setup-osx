@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DetectSyntax",
+		"EncodingHelper",
+		"GitGutter",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript Snippets",
+		"JsFormat",
+		"JSHint",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SmartMarkdown",
+		"SublimeCodeIntel",
+		"SublimeOnSaveBuild"
+	]
+}

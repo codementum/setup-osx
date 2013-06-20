@@ -1,0 +1,33 @@
+
+Host *.ornl.gov
+ User ojg
+
+Host github.com
+ Hostname ssh.github.com
+ User git
+ ProxyCommand corkscrew snowman.ornl.gov 3128 %h %p
+ IdentityFile ~/.ssh/id_rsa
+
+Host skaion
+ Hostname 198.108.63.104
+ User research
+ Protocol 2
+ ProxyCommand corkscrew snowman.ornl.gov 3128 %h %p
+
+Host merit
+ Hostname 207.75.116.159
+ User jgoodall
+ Protocol 2
+ ProxyCommand corkscrew snowman.ornl.gov 3128 %h %p
+
+Host home
+ Hostname x.homeunix.org
+ User jgood
+ Protocol 2
+ ProxyCommand corkscrew snowman.ornl.gov 3128 %h %p
+
+Host work.desktop-remote
+ Hostname goodall-desktop.10502259.members.btmm.icloud.com
+ User ojg
+ AddressFamily inet6
+ Protocol 2

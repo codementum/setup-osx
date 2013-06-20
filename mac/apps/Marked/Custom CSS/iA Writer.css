@@ -1,0 +1,42 @@
+html {
+	background-color: #f2f2f2;
+	color: #333;
+}
+body {
+	margin: 10%;
+	padding: 0;
+	border: 0;
+	font-size: 16px;
+	line-height: 1.6;
+	font-family: Georgia;
+	word-wrap: break-word;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	font-weight: normal;
+}
+h1, h2, h3 {
+	font-family: "HelveticaNeue-Bold";
+}
+h1 {
+	font-size: 180%;
+}
+h2 {
+	font-size: 140%;
+}
+h3 {
+	font-size: 130%;
+}
+h4 {
+	font-size: 120%;
+}
+h5 {
+	font-size: 100%;
+}
+h6 {
+	font-style: italic;
+	font-size: 100%;
+}
+pre, code {
+	white-space: pre-wrap;
+}
